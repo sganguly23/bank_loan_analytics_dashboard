@@ -100,36 +100,6 @@ Provides analysis across:
 
 ---
 
-# 📂 Repository Structure
-
-# 📂 Repository Structure
-
-```text
-Bank-Loan-Analysis/
-│
-├── 📊 Bank Loan Analysis.pbix
-│
-├── 📄 README.md
-│   └── Main project documentation
-│
-├── 📘 Domain_knowledge.md
-│   └── Bank loan domain knowledge and lending workflow
-│
-├── 📖 Terminologies_in_Data.md
-│   └── Data dictionary and field descriptions
-│
-├── 📑 Query__Doc.md
-│   └── SQL queries used to generate KPIs and dashboard insights
-│
-├── 🖼️ Dashboard_Overview.md
-│   └── Dashboard pages and screenshots
-│
-└── 📁 financial_loan_Dataset.csv
-    └── Dataset used for analysis
-```
-
----
-
 # 📚 Project Documentation
 
 The repository includes detailed documentation for every aspect of the project.
