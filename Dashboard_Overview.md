@@ -22,7 +22,6 @@ The **Summary Dashboard** provides an executive overview of the bank's lending p
 - Month-to-Date (MTD) Metrics
 - Previous Month-to-Date (PMTD) Comparison
 
-### Dashboard Screenshot
 
 > <img width="1435" height="800" alt="image" src="https://github.com/user-attachments/assets/04dd60a8-7e40-4a96-8368-7709f9d3777a" />
 
@@ -42,7 +41,6 @@ The **Overview Dashboard** helps analyze lending trends across different busines
 - Loan Purpose Analysis
 - Home Ownership Analysis
 
-### Dashboard Screenshot
 
 > <img width="1423" height="795" alt="image" src="https://github.com/user-attachments/assets/fb7851bf-3d83-4a39-8599-5f18a1274064" />
 
@@ -68,7 +66,6 @@ The **Details Dashboard** provides a detailed, transaction-level view of all loa
 - State
 - Issue Date
 
-### Dashboard Screenshot
 
 > <img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/c4af4fb1-f9b1-4f22-a5c4-1a7ea1ac0959" />
 ---
