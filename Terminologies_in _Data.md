@@ -333,6 +333,4 @@ The dashboard leverages these fields to calculate and visualize:
 
 ---
 
-## 📌 Source
 
-The definitions and business significance in this document are derived from the project's terminology reference document. :contentReference[oaicite:0]{index=0}
