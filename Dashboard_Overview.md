@@ -24,8 +24,8 @@ The **Summary Dashboard** provides an executive overview of the bank's lending p
 
 ### Dashboard Screenshot
 
-> 📷 *<img width="1435" height="800" alt="image" src="https://github.com/user-attachments/assets/04dd60a8-7e40-4a96-8368-7709f9d3777a" />
-*
+> <img width="1435" height="800" alt="image" src="https://github.com/user-attachments/assets/04dd60a8-7e40-4a96-8368-7709f9d3777a" />
+
 
 ---
 
