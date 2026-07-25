@@ -184,7 +184,7 @@ Images/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Bank-Loan-Analysis.git
+git clone https://github.com/sganguly23/bank_loan_analytics_dashboard.git
 ```
 
 2. Open the `.pbix` file in Power BI Desktop.
@@ -237,8 +237,8 @@ These documents explain the business context, dataset fields, and SQL logic used
 
 **Sourojeet Ganguly**
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- LinkedIn: www.linkedin.com/in/sourojeet-ganguly-b79387250
+- GitHub: https://github.com/sganguly23
 
 ---
 
