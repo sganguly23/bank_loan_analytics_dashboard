@@ -44,8 +44,7 @@ The **Overview Dashboard** helps analyze lending trends across different busines
 
 ### Dashboard Screenshot
 
-> 📷 *<img width="1423" height="795" alt="image" src="https://github.com/user-attachments/assets/fb7851bf-3d83-4a39-8599-5f18a1274064" />
-*
+> <img width="1423" height="795" alt="image" src="https://github.com/user-attachments/assets/fb7851bf-3d83-4a39-8599-5f18a1274064" />
 
 ---
 
@@ -71,9 +70,7 @@ The **Details Dashboard** provides a detailed, transaction-level view of all loa
 
 ### Dashboard Screenshot
 
-> 📷 *<img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/c4af4fb1-f9b1-4f22-a5c4-1a7ea1ac0959" />
-*
-
+> <img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/c4af4fb1-f9b1-4f22-a5c4-1a7ea1ac0959" />
 ---
 
 # 🚀 Dashboard Features
