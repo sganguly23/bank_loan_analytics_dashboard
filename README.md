@@ -102,29 +102,46 @@ Provides analysis across:
 
 # 📂 Repository Structure
 
-```
+# 📂 Repository Structure
+
+```text
 Bank-Loan-Analysis/
 │
-├── Dashboard/
-│   └── Bank Loan Dashboard.pbix
+├── 📊 Bank Loan Analysis.pbix
 │
-├── SQL Queries/
-│   ├── Summary.sql
-│   ├── Overview.sql
-│   └── Loan_Status.sql
+├── 📄 README.md
+│   └── Main project documentation
 │
-├── Documentation/
-│   ├── Domain Knowledge.pdf
-│   ├── Banking Terminologies.pdf
-│   └── Query Documentation.pdf
+├── 📘 Domain_knowledge.md
+│   └── Bank loan domain knowledge and lending workflow
 │
-├── Images/
-│   ├── Dashboard Overview.png
-│   ├── Summary.png
-│   └── Details.png
+├── 📖 Terminologies_in_Data.md
+│   └── Data dictionary and field descriptions
 │
-└── README.md
+├── 📑 Query__Doc.md
+│   └── SQL queries used to generate KPIs and dashboard insights
+│
+├── 🖼️ Dashboard_Overview.md
+│   └── Dashboard pages and screenshots
+│
+└── 📁 financial_loan_Dataset.csv
+    └── Dataset used for analysis
 ```
+
+---
+
+# 📚 Project Documentation
+
+The repository includes detailed documentation for every aspect of the project.
+
+| Document | Description |
+|----------|-------------|
+| 📘 [Domain_knowledge.md](Domain_knowledge.md) | Understand the banking domain, loan lifecycle, and business process. |
+| 📖 [Terminologies_in_Data.md](Terminologies_in_Data.md) | Data dictionary explaining every column in the dataset. |
+| 📑 [Query__Doc.md](Query__Doc.md) | Complete SQL queries used to calculate KPIs and generate dashboard visuals. |
+| 🖼️ [Dashboard_Overview.md](Dashboard_Overview.md) | Overview of the Power BI dashboard pages with screenshots. |
+| 📊 [Bank Loan Analysis.pbix](Bank%20Loan%20Analysis.pbix) | Power BI report containing the interactive dashboard. |
+| 📁 [financial_loan_Dataset.csv](financial_loan_Dataset.csv) | Dataset used for building the dashboard and performing analysis. |
 
 ---
 
